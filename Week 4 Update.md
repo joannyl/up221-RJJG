@@ -2,7 +2,7 @@
 ### Project Title: Success of Vision Zero 
 ### **Roles & Titles:** 
 
-+ **Genevieve Chacon:** 
++ **Genevieve Chacon:**  Focused on gathering updated accident data in Los Angeles and visually presenting the data through maps and charts. I can also look at accident data and policy intiatives in other U.S. cities like NYC or Houson to compare to Los Angeles.
 + **Jessica Lopez:** Right now, as we have initiated our interest in measuring the effectiveness of Vision zero, I am interested in researching the spatial variables that will help us tell a story.
 + **Joanny Leyva:** Demographic data collection and analysis - Responsible for finding data on the demographics of communities next to the top 5 accident corridors and producing graphics that help understand the data. 
 + **Rebecca Saavedra Swint:** Lit review collection: Finding existing literature and maps on the project 
