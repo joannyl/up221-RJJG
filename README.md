@@ -19,16 +19,16 @@ Our objective is to:
 - Current state of the program
 - Analyze the infrastructure updates and see the effectiveness
 
-### Slide 5
+### Slide 5 (Rebecca)
 
 Looking at the 2019 Statewide Integrated Traffic Records System report for LA County, we found that we are losing between 500 to 800 people a year to traffic fatalities, and between 50,000 to 65,000 people a year get injured or disabled by traffic accidents.
 We shouldn’t simply accept that cars kill and maim as a cost of doing business. For those who have lost a loved one, this is devastating, and for those injured, their lives are changed in an instant.
 
-### Slide 6
+### Slide 6 (Rebecca) 
 
 The report also shows which cities have the highest rates of fatalities from cars accidents, and from cars striking down pedestrians. The City of LA ranks highest in total number of people killed by car accidents, followed by Long Beach / Compton, Palmdale / Lancaster, and unincorporated. As we mentioned earlier, young children and seniors are disproportionately victims of car crashes.
 
-### Slide 7
+### Slide 7 (Rebecca)
 
 Regarding injury rates, the cities that rank highest include the City of LA, followed by unincorporated areas of LA, Long Beach, Palmdale / Lancaster. Pedestrians injured by cars are high in these areas as well, but Glendale, Santa Monica, and Pomona also rank high. These areas might be more walkable, but are still dangerous for walkers.
 
